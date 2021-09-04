@@ -21,7 +21,7 @@ variable "organization" {
   default = "eoncollective"
 }
 variable "environment" {
-  default = "dev"
+  default = "sandbox"
 }
 variable "re_number" {
   default = "1"
